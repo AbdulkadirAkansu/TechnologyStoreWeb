@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My S A G</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="~/Content/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body style="background-color: #121415;">
+
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top text-white bgcolor py-3">
+        <div class="container py-2">
+            <a class="navbar-brand text-white " style="font-size: 50px" href="@Url.Action("Index","Home")">S A G</a>
+            <div class="collapse navbar-collapse justify-content-end. " id="#navbar-samsun">
+                <ul class="navbar-nav">
+                    <li class="nav-item px-2">
+                        <a class="nav-link text-white px-4" href=@Url.Action("Index","Home")>Anasayfa</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white px-4" href="@Url.Action("Hakkimizda","Home")">Hakkımızda</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white px-4" href="@Url.Action("Iletisim","Home")">İletisim</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+
+
+    <footer class="py-5">
+        <div class="container text-white">
+            <div class="row">
+                <div class="col-md-2">
+                    <h3 style="font-size: 50px;"><b>S A G</b></h3>
+                    <br />
+                    <h6 class="text-muted mb-3">Teknoloji</h6>
+                    <h6 class="text-muted mb-3">Hizmet</h6>
+                    <h6 class="text-muted mb-3">Kalite</h6>
+                </div>
+
+                <div class="col-md-2">
+
+                </div>
+                <div class="col-md-2">
+                    <ul class="list-unstyled ">
+                        <li class="text-muted mb-3">SAYFALAR</li>           
+                        <li><a class="text-white" href=@Url.Action("Hakkimizda","Home") style="text-decoration:none">Hakkimizda</a></li>
+                        <hr />
+                        <li><a class="text-white" href=@Url.Action("Iletisim","Home") style="text-decoration:none">Sepet</a></li>
+                        <hr />   
+
+                    </ul>
+
+                </div>
+                <div class="col-md-2">
+
+                    <ul class="list-unstyled">
+                        <li class="text-muted mb-3">İLETİŞİM BİLGİLERİ</li>
+                        <li><img style="height:15px;" /> &nbsp;&nbsp;+90 (505) 195 50 00</li>
+                        <hr />
+                        <li><img style="height:15px;" /> &nbsp;&nbsp;+90 (362) 431 15 78</li>
+                        <hr />
+                        <li><img style="height:15px;" /> &nbsp;&nbsp;info@sgateknoloji.tr</li>
+                        <hr />
+                        <li><img style="height:15px;" /> &nbsp;&nbsp;www.sga.com</li>
+
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+
+
+    </footer>
+
+    <script src="~/Scripts/jquery-3.6.4.js"></script>
+    <script src="~/Scripts/jquery-3.6.4.min.js"></script>
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+
+    
+</body>
+</html>

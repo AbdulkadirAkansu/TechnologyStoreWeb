@@ -1,0 +1,14 @@
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\obj\Debug\TeknolojiMagazasi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\obj\Debug\TeknolojiMagazasi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\bin\Debug\TeknolojiMagazasi.DataAccess.dll.config
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\bin\Debug\TeknolojiMagazasi.DataAccess.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\bin\Debug\TeknolojiMagazasi.DataAccess.pdb
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\bin\Debug\TeknolojiMagazasi.Model.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\bin\Debug\TeknolojiMagazasi.Model.pdb
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\obj\Debug\TeknolojiMagazasi.DataAccess.csproj.CopyComplete
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\obj\Debug\TeknolojiMagazasi.DataAccess.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.DataAccess\obj\Debug\TeknolojiMagazasi.DataAccess.pdb

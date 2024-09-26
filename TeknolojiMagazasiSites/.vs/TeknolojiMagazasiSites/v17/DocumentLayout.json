@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\kullanici\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\kullanici\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\kullanici\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\kullanici\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\kullanici\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\kullanici\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasisites\\teknolojimagazasi.ui\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasisites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\marka\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\marka\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\marka\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\marka\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\marka\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\marka\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\satis\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\satis\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\satis\\sepetegoruntule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\satis\\sepetegoruntule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\satis\\satisekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\satis\\satisekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\satis\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\satis\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\satis\\satisdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\satis\\satisdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\kullanici\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\kullanici\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\kullanici\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\kullanici\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\areas\\yonetim\\views\\marka\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\areas\\yonetim\\views\\marka\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\teknolojimagazasi.ui\\views\\home\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA442EC-BC63-40A5-B07E-2DA51B9EBD6F}|TeknolojiMagazasi.UI\\TeknolojiMagazasi.UI.csproj|solutionrelative:teknolojimagazasi.ui\\views\\home\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:29:06.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwCMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Iletisim.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Views\\Home\\Iletisim.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Views\\Home\\Iletisim.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Views\\Home\\Iletisim.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Views\\Home\\Iletisim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Ekle.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\Sil.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\Sil.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\Sil.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\Sil.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Duzenle.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Duzenle.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Duzenle.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Duzenle.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Duzenle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Listele.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Listele.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Listele.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Listele.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Listele.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T14:25:51.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T14:25:51.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Duzenle.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Duzenle.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Duzenle.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Duzenle.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Duzenle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T14:25:51.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Ekle.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T14:25:51.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Login.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Login.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Login.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T14:25:51.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SatisDetay.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SatisDetay.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SatisDetay.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SatisDetay.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SatisDetay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Listele.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\Listele.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\Listele.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\Listele.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\Listele.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Listele.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Listele.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Listele.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Listele.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Listele.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SepeteGoruntule.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SepeteGoruntule.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SepeteGoruntule.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SepeteGoruntule.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SepeteGoruntule.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Sil.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Sil.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Sil.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Marka\\Sil.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Sil.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Sil.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Sil.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Kullanici\\Sil.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SatisEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SatisEkle.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SatisEkle.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SatisEkle.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Areas\\Yonetim\\Views\\Satis\\SatisEkle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hakkimizda.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Views\\Home\\Hakkimizda.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Views\\Home\\Hakkimizda.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Views\\Home\\Hakkimizda.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Views\\Home\\Hakkimizda.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-26T14:25:51.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiSites\\TeknolojiMagazasi.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TeknolojiMagazasi.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:25:51.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+﻿@model List<TeknolojiMagazasi.Model.Urun>
+
+
+@{
+    ViewBag.Title = "Satış Ekle";
+}
+
+<section class="py-5"></section>
+<section class="py-5"></section>
+
+<section class="text-center">
+    <div class="container">
+        <h2>Satış Ekle</h2>
+        <hr />
+    </div>
+</section>
+
+<section class="py-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <a href="@Url.Action("SepeteGoruntule")" class="btn btn-primary">Sepete Git</a>
+                <br />
+                <br />
+                <table class="table">
+                    <tr>
+                        <th>Id</th>
+                        <th>Adı</th>
+                        <th>Marka</th>
+                        <th>Stok Adet</th>
+                        <th>Fiyat</th>
+                        <th></th>
+                    </tr>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.Ad</td>
+                            <td>@item.Marka.Ad</td>
+                            <td>@item.StokAdet</td>
+                            <td>@item.Fiyat.ToString("C")</td>
+                            <td>
+                                <a href="@Url.Action("SepeteEkle", new { id = item.Id })" class="btn btn-success btn-xs">SepeteEkle</a>
+                            </td>
+                        </tr>
+                    }
+                </table>
+           </div>
+        </div>
+    </div>
+</section>

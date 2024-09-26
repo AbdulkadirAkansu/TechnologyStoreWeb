@@ -1,0 +1,6 @@
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.Model\bin\Debug\TeknolojiMagazasi.Model.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.Model\bin\Debug\TeknolojiMagazasi.Model.pdb
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.Model\obj\Debug\TeknolojiMagazasi.Model.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.Model\obj\Debug\TeknolojiMagazasi.Model.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.Model\obj\Debug\TeknolojiMagazasi.Model.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\İnternet Projesi Abdulkadir Akansu\TeknolojiMagazasiSites\TeknolojiMagazasi.Model\obj\Debug\TeknolojiMagazasi.Model.pdb

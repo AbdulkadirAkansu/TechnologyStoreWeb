@@ -1,0 +1,37 @@
+﻿@model TeknolojiMagazasi.Model.Marka
+
+@{
+    ViewBag.Title = "Marka Sil";
+}
+
+<section class="py-5"></section>
+<section class="py-5"></section>
+
+<section class="text-center">
+    <div class="container">
+        <h2>Marka Sil</h2>
+        <hr />
+    </div>
+</section>
+
+
+<section class="py-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <p>@Model.Ad adlı markayı silmek istiyor musunuz? </p>
+                @using (Html.BeginForm("Sil", "Marka", FormMethod.Post, new { @class = "form-horizontal" }))
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-group">
+                        <div class="col-md-10 col-md-offset-2">
+                            <a href="@Url.Action("Listele")" class="btn btn-default">İptal</a>
+                            <button type="submit" class="btn btn-danger">Sil</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>

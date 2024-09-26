@@ -1,0 +1,194 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Yonetim/Views/Shared/_Layout.cshtml";
+}
+
+<section class="py-5">
+</section>
+
+<div class="offcanvas offcanvas-start bg-dark text-white side-bar" data-bs-scroll="true" tabindex="-1" id="offcanvas" aria-labelledby="offcanvas">
+    <div class="offcanvas-body p-0">
+        <nav class="navbar-dark">
+            <ul class="navbar-nav">
+                <li>
+                    <div class="text-muted small fw-bold text-uppercase px-3">Core</div>
+                </li>
+                <li>
+                    <a href="#" class="nav-link px-3 active">
+                        <span class="me-2">
+                            <i class="bi bi-wrench-adjustable-circle"></i>
+                        </span>
+                        <span class="fw-bold">Dashboard</span>
+                    </a>
+                </li>
+                <li class="my-4">
+                    <hr class="dropdown-divider">
+                </li>
+                <li>
+                    <div class="text-muted small fw-bold text-uppercase px-3">Interface</div>
+                </li>
+                <li>
+                    <a class="nav-link px-3 sidebar-link" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                        <span class="me-2"><i class="bi bi-layout-text-window-reverse"></i></span>
+                        <span class="fw-bold">Layouts</span>
+                        <span class="right-icon ms-auto">
+                            <i class="bi bi-chevron-down"></i>
+                        </span>
+                    </a>
+                    <div class="collapse" id="collapseExample">
+                        <div>
+                            <ul class="navbar-nav ps-3">
+                                <li>
+                                    <a href="#" class="nav-link px-3">
+                                        <span class="me-2"><i class="bi bi-layout-text-window-reverse"></i></span>
+                                        <span class="fw-bold">Nested Link</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                <li>
+                    <a href="#" class="nav-link px-3">
+                        <span class="me-2">
+                            <i class="bi bi-archive"></i>
+                        </span>
+                        <span class="fw-bold">Archive</span>
+                    </a>
+                </li>
+                <li class="my-4">
+                    <hr class="dropdown-divider">
+                </li>
+                <li>
+                    <div class="text-muted small fw-bold text-uppercase px-3">Addons</div>
+                </li>
+                <li>
+                    <a href="#" class="nav-link px-3">
+                        <span class="me-2">
+                            <i class="bi bi-activity"></i>
+                        </span>
+                        <span class="fw-bold">Activity</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="nav-link px-3">
+                        <span class="me-2">
+                            <i class="bi bi-clipboard2-data"></i>
+                        </span>
+                        <span class="fw-bold">Data</span>
+                    </a>
+                </li>
+                <li class="my-4">
+                    <hr class="dropdown-divider">
+                </li>
+                <li class="my-4">
+                    <hr class="dropdown-divider">
+                </li>
+                <li>
+                    <a href="#" class="nav-link px-3">
+                        <span class="me-2">
+                            <i class="bi bi-info-circle"></i>
+                        </span>
+                        Provided by
+                        <span class="fw-bold">AppSeed</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<main class="mt-5 pt-3">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 fw-bold fs-3">Dashboard</div>
+        </div>
+        <div class="row mt-2">
+            <div class="col-md-3 mb-3">
+                <div class="card text-white bg-primary h-100">
+                    <div class="card-header fw-bold">Header</div>
+                    <div class="card-body">
+                        <h5 class="card-title">Primary card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="card text-white bg-success h-100">
+                    <div class="card-header fw-bold">Header</div>
+                    <div class="card-body">
+                        <h5 class="card-title">Primary card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="card text-white bg-warning h-100">
+                    <div class="card-header fw-bold">Header</div>
+                    <div class="card-body">
+                        <h5 class="card-title">Primary card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="card text-white bg-danger h-100">
+                    <div class="card-header fw-bold">Header</div>
+                    <div class="card-body">
+                        <h5 class="card-title">Primary card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-2">
+            <div class="col-md-6">
+                <div class="card-chart">
+                    <div class="card-header">Charts</div>
+                    <div class="card-body">
+                        <canvas class="chart" width="400" height="200"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card-chart">
+                    <div class="card-header">Charts</div>
+                    <div class="card-body">
+                        <canvas class="chart" width="400" height="200"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="row mt-2">
+            <div class="col-md-12">
+                <div class="card-table">
+                    <div class="card-header">
+                        Datatables
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table id="example" class="table data-table" style="width:100%">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Position</th>
+                                        <th>Office</th>
+                                        <th>Age</th>
+                                        <th>Start date</th>
+                                        <th>Salary</th>
+                                    </tr>
+                                </thead>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+    </div>
+</main>
+
+
+
+

@@ -1,0 +1,51 @@
+﻿@model List<TeknolojiMagazasi.Model.Kullanıcı>
+
+@{
+    ViewBag.Title = "Kullanıcı Listele";
+}
+
+<section class="py-5"></section>
+<section class="py-5"></section>
+
+<section class="text-center">
+    <div class="container">
+        <h2>Kullanıcı Listele</h2>
+        <hr />
+    </div>
+</section>
+
+
+<section class="py-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <a href="@Url.Action("Ekle")" class="btn btn-primary">Ekle</a>
+                <br />
+                <br />
+                <table class="table">
+                    <tr>
+                        <th>Eposta</th>
+                        <th>Ad</th>
+                        <th>Soyad</th>
+                        <th>Yetki</th>
+                        <th></th>
+                    </tr>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.EPosta</td>
+                            <td>@item.Ad</td>
+                            <td>@item.Soyad</td>
+                            <td>@item.Yetki</td>
+                            <td>
+                                <a href="@Url.Action("Sil", new { eposta = item.EPosta })" class="btn btn-danger btn-xs">Sil</a>
+                                <a href="@Url.Action("Duzenle", new { eposta = item.EPosta })" class="btn btn-info btn-xs">Düzenle</a>
+
+                            </td>
+                        </tr>
+                    }
+                </table>
+           </div>
+        </div>
+    </div>
+</section>

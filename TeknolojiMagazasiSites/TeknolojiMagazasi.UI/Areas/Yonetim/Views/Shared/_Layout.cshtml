@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My S A G</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link  rel="stylesheet" href="~/Content/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="/Content/dark-mode.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <style>
+        .navbar {
+            background-color: black;
+            display: flex;
+        }
+
+        .navbar-brand,
+        .navbar-nav .nav-link {
+
+            display : flex;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top text-white bgcolor py-3">
+        <div class="container py-2">
+            <a class="navbar-brand text-white " style="font-size: 50px;" href="@Url.Action("Index","DashBoard")">S A G</a>
+            <div class="navbar-collapse collapse navbar-light justify-content-center">
+                <ul class="nav  d-flex">
+                    @if (Session["user"] != null && (Session["user"] as TeknolojiMagazasi.Model.Kullanıcı).Yetki == TeknolojiMagazasi.Model.Yetkiler.Mudur)
+                    {
+                        <li class="item"><a class="nav-link navbar nav-item text-white px-2" href="@Url.Action("Listele", "Urun")">Ürünler</a></li>
+                        <li class="item"><a class="nav-link nav-item text-white px-2" href="@Url.Action("Listele", "Marka")">Markalar</a></li>
+                        <li class="item"><a class="nav-link nav-item text-white px-2" href="@Url.Action("Listele", "Satis")">Satışlar</a></li>
+                        <li class="item"><a class="nav-link nav-item text-white px-2" href="@Url.Action("Listele", "Kullanici")">Kullanıcılar</a></li>
+                    }
+                    else if (Session["user"] != null && (Session["user"] as TeknolojiMagazasi.Model.Kullanıcı).Yetki == TeknolojiMagazasi.Model.Yetkiler.Kasiyer)
+                    {
+                        <li class="item"><a class="nav-link nav-item text-white px-2" href="@Url.Action("SatisEkle", "Satis")">Satış Ekle</a></li>
+                    }
+
+                    @if (Session["user"] != null)
+                    {
+                        <li class="item"><a class="nav-link nav-item text-white px-2" href="@Url.Action("Logout", "Kullanici")">Çıkış</a></li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+
+
+    <script src="~/Scripts/jquery-3.6.4.js"></script>
+    <script src="~/Scripts/jquery-3.6.4.min.js"></script>
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.2/dist/chart.min.js"></script>
+    <script src="/js/script.js"></script>
+    <script src="/js/dark-mode-switch.min.js"></script>
+
+
+</body>
+</html>

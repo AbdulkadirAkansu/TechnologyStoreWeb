@@ -1,0 +1,55 @@
+﻿@model List<TeknolojiMagazasi.Model.Urun>
+
+@{
+    ViewBag.Title = "Listele";
+    Layout = "~/Areas/Yonetim/Views/Shared/_Layout.cshtml";
+}
+
+<section class="py-5"></section>
+    <section class="py-5"></section>
+
+    <section class="text-center">
+        <div class="container">
+            <h2>
+                Ürün Listele
+            </h2>
+            <hr />
+        </div>
+    </section>
+    <section class="py-5">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <a href="@Url.Action("Ekle")" class="btn btn-primary">Ekle</a>
+                    <br />
+                    <br />
+                    <table class="table">
+                        <tr>
+                            <th>Id</th>
+                            <th>Ad</th>
+                            <th>Marka</th>
+                            <th>Stok Adet</th>
+                            <th>Fiyat</th>
+                            <th></th>
+                        </tr>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Ad</td>
+                                <td>@((item.Marka == null)?"NULL" : item.Marka.Ad)</td>
+                                <td>@item.StokAdet</td>
+                                <td>@item.Fiyat.ToString("C")</td>
+                                <td>
+                                    <a href="@Url.Action("Sil", new { id = item.Id })" class="btn btn-danger btn-xs">Sil</a>
+                                    <a href="@Url.Action("Duzenle", new { id = item.Id })" class="btn btn-info btn-xs">Düzenle</a>
+
+                                </td>
+                            </tr>
+                        }
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+

@@ -1,0 +1,40 @@
+﻿@model TeknolojiMagazasi.Model.Kullanıcı
+
+@{
+    ViewBag.Title = "Kullanıcı Sil";
+}
+
+<section class="py-5"></section>
+<section class="py-5"></section>
+
+<section class="text-center">
+    <div class="container">
+        <h2>Kullanıcı Sil</h2>
+        <hr />
+    </div>
+</section>
+
+
+<section class="py-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <p>@Model.EPosta eposta adresli kullanıcı silmek istiyor musunuz? </p>
+                @using (Html.BeginForm("Sil", "Kullanici", FormMethod.Post, new { @class = "form-horizontal" }))
+                {
+                    @Html.AntiForgeryToken()
+
+                    @Html.HiddenFor(x => x.EPosta)
+
+                    <div class="form-group">
+                        <div class="col-md-10 col-md-offset-2">
+                            <a href="@Url.Action("Listele")" class="btn btn-default">İptal</a>
+                            <button type="submit" class="btn btn-danger">Sil</button>
+                        </div>
+                    </div>
+                }
+           </div>
+        </div>
+    </div>
+</section>
+
